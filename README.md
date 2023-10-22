@@ -1,4 +1,4 @@
-#Components H1
+# Components 
 
 https://viache-slav.github.io/goit-react-hw-01-components/ - link to the working page in github
 
@@ -11,11 +11,11 @@ To run the project on your hardware:
    -run the installation with the command `npm install`
    -start the project with the command `npm start`
 
-## screenshot of the first task H2
+## screenshot of the first task 
 ![screenshot of the first task](./src/screenshot/Profile.png)
-## screenshot of the second task H2
+## screenshot of the second task 
 ![screenshot of the second task](./src/screenshot/statistic.png)
-## screenshot of the third task H2
+## screenshot of the third task 
 ![screenshot of the third task](./src/screenshot/contacts.png)
-## screenshot of the fourth task H2
+## screenshot of the fourth task 
 ![screenshot of the fourth task](./src/screenshot/transaction.png)
